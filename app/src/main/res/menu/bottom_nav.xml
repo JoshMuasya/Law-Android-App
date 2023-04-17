@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/home"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+
+    <item android:title="@string/lawyers"
+        android:id="@+id/lawyers"
+        android:icon="@drawable/lawyer"/>
+
+    <item android:title="@string/clients"
+        android:id="@+id/clients"
+        android:icon="@drawable/clients"/>
+
+    <item android:title="@string/cases"
+        android:id="@+id/cases"
+        android:icon="@drawable/cases"/>
+
+    <item android:title="@string/finances"
+        android:id="@+id/finances"
+        android:icon="@drawable/finances"/>
+</menu>

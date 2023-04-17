@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Law</string>
+    <string name="digimatic">Digimatic</string>
+    <string name="law_management_system">Law Management System</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="whatsapp_number">Whatsapp Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="lawyer">Lawyers</string>
+    <string name="client">Clients</string>
+    <string name="task">Tasks</string>
+    <string name="calenda">Calendar</string>
+    <string name="finance">Finances</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="lawyer_fragment">Lawyer Fragment</string>
+    <string name="finance_fragment">Finance Fragment</string>
+    <string name="client_fragment">Client Fragment</string>
+    <string name="cases_fragment">Cases Fragment</string>
+    <string name="lawyers">Lawyers</string>
+    <string name="clients">Clients</string>
+    <string name="cases">Cases</string>
+    <string name="finances">Finances</string>
+    <string name="profile">Profile</string>
+    <string name="calendar">Calendar</string>
+    <string name="register_fragment">Register Fragment</string>
+    <string name="calendar_fragment">Calendar Fragment</string>
+    <string name="Lawyer">LAWYERS</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="back">Back</string>
+    <string name="name">Name:</string>
+    <string name="john_doe">John Doe</string>
+    <string name="_254798040353">+254798040353</string>
+    <string name="number">Number:</string>
+    <string name="emails">Email:</string>
+    <string name="johndoe_gmail_com">johndoe@gmail.com</string>
+    <string name="add_new_lawyer">ADD NEW LAWYER</string>
+    <string name="add_lawyer">Add Lawyer</string>
+    <string name="phonenumber">PhoneNumber:</string>
+    <string name="email_address">Email Address:</string>
+    <string name="clients_">Clients:</string>
+    <string name="update_lawyer_details">UPDATE LAWYER DETAILS</string>
+    <string name="delete_lawyer">DELETE LAWYER</string>
+</resources>

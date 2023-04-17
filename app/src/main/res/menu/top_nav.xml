@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        app:showAsAction="ifRoom"/>
+
+    <item android:title="@string/calendar"
+        android:id="@+id/calendar"
+        android:icon="@drawable/calendar"
+        app:showAsAction="ifRoom"/>
+
+</menu>

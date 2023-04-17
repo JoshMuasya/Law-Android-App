@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "560594637403",
+    "firebase_url": "https://law-firm-551cc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "law-firm-551cc",
+    "storage_bucket": "law-firm-551cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560594637403:android:599d0b744ad1afb842657e",
+        "android_client_info": {
+          "package_name": "com.digimatic.lawfirmmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560594637403-4gbo2tetqr6pj29j9ip9gp80j9jc4tmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCggILRGkwxeinljbAg9BIxTQxgXAQrq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560594637403-4gbo2tetqr6pj29j9ip9gp80j9jc4tmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560594637403:android:347ff735c8b44a0f42657e",
+        "android_client_info": {
+          "package_name": "com.example.law"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560594637403-4gbo2tetqr6pj29j9ip9gp80j9jc4tmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCggILRGkwxeinljbAg9BIxTQxgXAQrq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560594637403-4gbo2tetqr6pj29j9ip9gp80j9jc4tmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560594637403:android:7bf32240eab4c54742657e",
+        "android_client_info": {
+          "package_name": "com.example.lawfirmmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560594637403-4gbo2tetqr6pj29j9ip9gp80j9jc4tmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCggILRGkwxeinljbAg9BIxTQxgXAQrq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560594637403-4gbo2tetqr6pj29j9ip9gp80j9jc4tmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
